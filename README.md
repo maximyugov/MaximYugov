@@ -3,10 +3,6 @@
 My name is Max, I'm Junior Backend Developer from Russia, Penza. I'm currently educating myself and looking for an opportunity to work in a team and gather experience in commercial web development. You can reach out to me at maxim.s.yugov@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=MaximYugov)
-![](https://badges.peiyuan.ch/leetcode/MaximYugov/name)
-![](https://badges.peiyuan.ch/leetcode/MaximYugov/rate?difficulty=all)
-![](https://badges.peiyuan.ch/leetcode/MaximYugov/solved?difficulty=easy)
-![](https://badges.peiyuan.ch/leetcode/MaximYugov/solved?difficulty=medium)
 
 # Technologies
 
